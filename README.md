@@ -16,6 +16,9 @@ End the program
 ## Program:
 
 ## Output:
+
+<img width="1293" height="835" alt="image" src="https://github.com/user-attachments/assets/9d611f47-5f04-4401-92ea-d5c1762f6599" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
